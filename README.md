@@ -125,6 +125,10 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+# Load Testing Guide for Web Server Capacity
+
+Load testing is a critical process that helps you evaluate the performance and capacity of your web server. By simulating real-world user loads, you can identify potential bottlenecks and ensure your server can handle the expected traffic. This guide outlines the steps to set up and conduct load testing using a closed-loop load generator client.
+
 ## Step 4: Running the Load Test
 
 1. **Compile your web server and load generator.**
@@ -182,4 +186,8 @@ Load testing is essential to ensure your web server can handle expected user loa
 
 ## Contributing
 
-Niteen Pawar
+Contributions are welcome! Feel free to open issues or submit pull requests with any improvements or suggestions.
+
+---
+*Converted by Niteen Pawar*
+
